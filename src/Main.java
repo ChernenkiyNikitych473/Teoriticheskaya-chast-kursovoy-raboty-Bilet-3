@@ -2,10 +2,10 @@ public class Main {
     public static void main (String[] args) {
         System.out.println("Привет, мир!");
         System.out.println("Задача: Напишите программу, которая разделяет любую строку на две части ровно пополам по количеству символов.");
-        String str_1 = "Я, обожаю изучать професию Java-разрабочткик";
+        String str_1 = "Я, обожаю изучать профессию Java-разрабочткик";
         String str_2 = new String(new char[]{'Я',});
         String str_3 = new String(new char[]{'о', 'б', 'о', 'ж', 'а', 'ю',});
-        String str_4 = new String(new char[]{'и', 'у', 'ч', 'а', 'т', 'ь',});
+        String str_4 = new String(new char[]{'и', 'з', 'у', 'ч', 'а', 'т', 'ь'});
         String str_5 = new String(new char[]{'п', 'р', 'о', 'ф', 'е', 'с', 'с', 'и', 'ю',});
         String str_6 = new String(new char[]{'J', 'a', 'v', 'a',});
         String str_7 = new String(new char['-']);
